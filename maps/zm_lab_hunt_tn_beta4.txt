@@ -1,0 +1,15 @@
+zm_lab_hunt_tn_beta4 - Zombie Mod
+
+ Infection
+The-No0n3 ( The-No0n3@gmail.com )
+
+Info:
+Current version: BETA 4
+Last updated: 28.06.2008
+Created by: The-No0n3
+Textures and some models: Valve
+
+Notes:
+
+This map is map made for United States Gaming Community (www.usgcommunity.com) servers
+and it's designed for Counter-Strike server side mod "Zombie Mod Infection" by MysticDeath.
